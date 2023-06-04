@@ -1,0 +1,57 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Nav Bar 2 Start */
+.navbar2 {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 0;
+    background-color: #008690;
+    border-top: 1px solid #ffffff;
+}
+
+.nav2 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.nav-logo {
+    height: 30px;
+}
+
+.nav2-right-menu {
+    float: right;
+}
+
+.nav2-right-menu li {
+    float: left;
+    list-style-type: none;
+    font-size: 14px;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+
+.nav2-right-menu a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Nav Bar 2 End */
+
+
+
+
+
+.tours-page{
+    height: 1000px;
+}
